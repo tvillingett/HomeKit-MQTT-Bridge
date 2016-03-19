@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/mick/Development/HAP-Java-master/target/hap-1.1.0-dir-with-dependencies/com.beowulfe.hap.hap-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mick/Development/HAP-Java-master/target/hap-1.1.0-dir-with-dependencies/io.netty.netty-all-4.0.32.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/mick/Development/HAP-Java-master/target/hap-1.1.0-dir-with-dependencies/org.bouncycastle.bcprov-jdk15on-1.51.jar"/>
+	<classpathentry kind="lib" path="/Users/mick/Development/HAP-Java-master/target/hap-1.1.0-dir-with-dependencies/javax.jmdns.jmdns-3.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/mick/Development/HAP-Java-master/target/hap-1.1.0-dir-with-dependencies/commons-io.commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/mick/Development/HAP-Java-master/target/hap-1.1.0-dir-with-dependencies/javax.json.javax.json-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mick/Development/HAP-Java-master/target/hap-1.1.0-dir-with-dependencies/net.vrallev.ecc.ecc-25519-java-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/mick/Development/HAP-Java-master/target/hap-1.1.0-dir-with-dependencies/org.glassfish.javax.json-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/mick/Development/HAP-Java-master/target/hap-1.1.0-dir-with-dependencies/org.slf4j.slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="/Users/mick/Development/HAP-Java-master/target/hap-1.1.0-dir-with-dependencies/org.zeromq.curve25519-java-0.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mick/Development/HAP-Java-master/target/hap-1.1.0-dir-with-dependencies/com.nimbusds.srp6a-1.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/mick/Development/org.eclipse.paho.client.mqttv3-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/mick/Development/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="/Users/mick/Development/slf4j-1.7.10/slf4j-simple-1.7.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
